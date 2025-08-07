@@ -11,5 +11,6 @@ docker-compose up --build
 Access the App: Frontend: http://localhost:3000 / Backend API (Test): http://localhost:5000/api
 
 To stop the containers:
-docker compose down
+docker-compose down
+
 
