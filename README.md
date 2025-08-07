@@ -22,7 +22,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/simple-docker-app.git
+https://github.com/AnubhavPradhan/simple-docker-app.git
 cd simple-docker-app
 ```
 ### 2. Install and Run Backend
@@ -67,4 +67,5 @@ docker-compose up --build
 docker-compose down
 ```
 ---
+
 
